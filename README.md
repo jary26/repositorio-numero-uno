@@ -1,2 +1,1 @@
-# repositorio-numero-uno
-evaluación de conocimientos modulo2 ; creacion de un repositorio desde github
+confirmacion de los cambios en github desde vs code y la consola de git bash.
